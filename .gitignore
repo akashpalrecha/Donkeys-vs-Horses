@@ -1,0 +1,4 @@
+
+data/.DS_Store
+data/models/frozen_ignnored_resnet18_9_epochs.pth
+*.pth
